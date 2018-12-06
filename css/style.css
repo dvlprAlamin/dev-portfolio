@@ -1,0 +1,32 @@
+#contact .cover .row>div:last-of-type a:hover i {
+  color: #FFF;
+}
+
+#contact .cover .row>div:last-of-type a.Facebook:hover {
+  background: #4267b2;
+}
+
+#contact .cover .row>div:last-of-type a.Twitter:hover {
+  background: #1da1f2;
+}
+
+#contact .cover .row>div:last-of-type a.Github:hover {
+  background: #24292e;
+}
+
+#contact .cover .row>div:last-of-type a.Instagram:hover {
+  background: #dc2743;
+  -webkit-background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+  -moz-background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+  -ms-background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+  -o-background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+  background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+}
+
+#contact .cover .row>div:last-of-type a.Codepen:hover {
+  background: #000;
+}
+
+#contact .cover .row>div:last-of-type a.Linkedin:hover {
+  background: #0077b5;
+}
